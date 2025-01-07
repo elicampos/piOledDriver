@@ -1,7 +1,7 @@
 # piOledDriver
 
 **GitHub Repo:** [https://github.com/elicampos/piOledDriver](https://github.com/elicampos/piOledDriver)  
-**Branch:** main  
+**Branch:** master  
 
 A simple C++ project demonstrating how to drive an SH1106/SSD1306-like OLED display via SPI and gather CPU usage stats (using `mpstat`). Designed for a Raspberry Pi 5 or similar Linux SBC with `libgpiod` for GPIO access.
 
